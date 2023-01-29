@@ -1,0 +1,13 @@
+body{
+    padding:0;
+    margin:0;
+    background:#FFF0F0;
+}
+#main{
+    margin-right:auto;
+    margin-left: auto;
+}
+#title{
+    font-size: 45px;
+    text-align: center;
+}
