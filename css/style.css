@@ -11,3 +11,10 @@ body{
     font-size: 45px;
     text-align: center;
 }
+
+#img-div {
+    background-color: white;
+}
+#img-caption {
+    text-align: center;
+}
